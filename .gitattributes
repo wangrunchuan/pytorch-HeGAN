@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.py linguist-language=python
+*.dat linguist-language=python
+*.emb linguist-language=python
